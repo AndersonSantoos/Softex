@@ -29,8 +29,7 @@ function calculadora(num1, num2, operacao) {
       default:
         return 0; // Operação inválida
     }
-  
-  }
+ }
   
   console.log('Soma -----------', calculadora(2, 4, 1));
   console.log('Subtração ------', calculadora(5, 2, 2));
