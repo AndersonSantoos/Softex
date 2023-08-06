@@ -5,7 +5,7 @@
 // Codifique a solução mais eficiente para buscar o número 20 no array.
 
 
-const listaNumeros = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];
+const listaNumeros = [15, 8, 10, 25, 12, 30, 5, 20, 18, 7];  //Pelo fato dos números estarem desordenados, a melhor opção é a linear.
 
 function buscarNumero(elementoBuscado, array) {
     for(let i = 0; i < array.length; i++) {
