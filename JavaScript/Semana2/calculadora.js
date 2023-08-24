@@ -1,5 +1,6 @@
 // CALCULADORA
 
+
 function calculadora(valor1, valor2, operacao) {
     let resultado
      switch(operacao) {
