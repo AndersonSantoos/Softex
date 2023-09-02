@@ -11,6 +11,7 @@ router.post("/", (req, res) => {
     res.send("Rota POST funcionando!")
 });
 
+//Rota put
 router.put("/", (req, res) => {
     res.send("Rota PUT funcionando!")
 });
