@@ -1,3 +1,4 @@
+// Início da atividade
 class ComplexNumber:
     def __init__(self, real, imag):
         self.real = real
