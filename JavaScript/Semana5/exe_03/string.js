@@ -8,7 +8,7 @@ console.log(resultado);
 
 //==================================================================================
 
-//Método toUpperCase é utilizado para retornar todas letras maiúsculos.
+//Método toUpperCase é utilizado para retornar todas letras maiúsculas.
 
 let texto = "Este é um exemplo de texto em minúsculas.";
 
